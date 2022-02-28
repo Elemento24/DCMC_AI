@@ -8,6 +8,9 @@
 - We will primarily be creating a notebook for each of our data-centric methods, and then exporting a function from each of our notebooks, which will based upon the model and dataset input to the function, apply its respective method accordingly, and give the improved dataset.
 - Similarly, we will be creating a notebook for each of our model-centric methods, and then explort a function from this as well, which will return the predictions and final performance scores. 
 
+## File Descriptions
+`exp_tra.ipynb` -- This `.ipynb` notebook covers the basic code of exploring the provided dataset files, and transforming them into the required `.csv` format
+
 ## Authors
 - Dr. Surya Prakash
 - Vishesh Mittal
