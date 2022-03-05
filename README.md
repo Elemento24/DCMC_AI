@@ -1,4 +1,4 @@
-# Data-Centric AI
+# Hybridization & Quantitative Comparison of Data-centric and Model-centric approaches
 
 ## Introduction
 - This repository consists of the code for our Research Paper, titled "**Hybridization & Quantitative Comparison between Model-centric and Data-centric AI approaches**".
