@@ -10,7 +10,7 @@
 
 ## File Descriptions
 - `exp_tra.ipynb` -- This `.ipynb` notebook covers the basic code of exploring the provided dataset files, and transforming them into the required `.csv` format. It also includes the code for unbalancing the dataset, and reserving some portion as the unlabelled dataset.
-- `baseline_model.ipynb` - This file stores the code of the Baseline Model. It's a simple CNN model with considerable hyperparameter-tuning, and has an **accuracy of 0.7636** and a **log-loss of 0.7781** on the test dataset.
+- `baseline_model.ipynb` - This file stores the code of the Baseline Model. It's a simple CNN model with considerable hyperparameter-tuning, and has an **accuracy of 0.7692** and a **log-loss of 0.7495** on the test dataset.
 
 ## Authors
 - Dr. Surya Prakash
