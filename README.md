@@ -2,7 +2,8 @@
 
 ## Introduction
 - This repository consists of the code for our Research Paper, titled "**Hybridization & Quantitative Comparison between Model-centric and Data-centric AI approaches**".
-- We will primarily be using Kaggle for coding purposes, and we have uploaded a copy of the dataset on Kaggle for ease of access in our kernels, which can be accessed [here](https://www.kaggle.com/dataset/95840441821df30ede490fae5ba502b652d1457ca80f7b8d0f0c1212d9a260f7). 
+- We will primarily be using Kaggle for coding purposes, and we have uploaded a copy of the dataset on Kaggle for ease of access in our kernels, which can be accessed [here](https://www.kaggle.com/dataset/95840441821df30ede490fae5ba502b652d1457ca80f7b8d0f0c1212d9a260f7). Apart from containing the CIFAR-10 dataset in it's original form, this dataset also stores all the intermediate data files that are generated from one particular kernel as the output, and are used in another kernel as the input.
+- We have also uploaded another dataset [here](https://www.kaggle.com/datasets/elemento/dcai-rw), which stores all the models. This is primarily being done to ensure reproducible results.
 
 ## Methodology
 - We will primarily be creating a notebook for each of our data-centric methods, and then exporting a function from each of our notebooks, which will based upon the model and dataset input to the function, apply its respective method accordingly, and give the improved dataset.
